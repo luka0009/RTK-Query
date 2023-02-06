@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 2
+    },
+    {
+      "name": "Steven Leannon",
+      "id": 5
+    },
+    {
+      "name": "Lorraine Marks",
+      "id": 6
+    },
+    {
+      "name": "Jody Bernier",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Luxurious Fresh Towels",
+      "id": 19
+    },
+    {
+      "userId": 2,
+      "title": "Incredible Fresh Mouse",
+      "id": 20
+    },
+    {
+      "userId": 5,
+      "title": "Practical Rubber Tuna",
+      "id": 21
+    },
+    {
+      "userId": 5,
+      "title": "Intelligent Plastic Hat",
+      "id": 22
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69975",
+      "id": 2
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72681",
+      "id": 3
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61544",
+      "id": 4
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=95371",
+      "id": 7
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14412",
+      "id": 8
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=19793",
+      "id": 10
+    }
+  ]
+}
